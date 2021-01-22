@@ -76,5 +76,5 @@ grafico_dispersao_especie <- ggplot2::ggplot(dados,
     ggplot2::ylab("Desemprego em milhares") +
     ggplot2::theme_classic()
   
-  grafico_linhas
+plotly::ggplotly(grafico_linhas)
   
