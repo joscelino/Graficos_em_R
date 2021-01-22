@@ -37,4 +37,10 @@ library(Hmisc)
 library(scales)
 library(gridExtra)
 library(esquisse)
+library(wordcloud2)
+library(wordcloud)
+library(tm)
+library(textreadr)
+library(rvest)
+
 
