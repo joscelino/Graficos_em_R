@@ -44,6 +44,7 @@ library(textreadr)
 library(rvest)
 library(corrgram)
 library(factoextra)
+library(semTools)
 
 
 
