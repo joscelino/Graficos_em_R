@@ -28,6 +28,7 @@ library(treemap)
 library(RColorBrewer)
 library(ggraph)
 library(igraph)
+library(igraphdata)
 library(gapminder)
 library(packcircles)
 library(wordcloud2)
@@ -45,6 +46,7 @@ library(rvest)
 library(corrgram)
 library(factoextra)
 library(semTools)
+library(rgl)
 
 
 
